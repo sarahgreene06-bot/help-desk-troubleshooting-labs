@@ -31,3 +31,11 @@ action taken, results, and verification.
 ## Scope
 These are personal practice labs, not professional
 customer support tickets.
+
+## Evidence
+
+### Before
+![Task Manager before closing applications](001-before.jpg)
+
+### After
+![Task Manager after closing applications](001-after.jpg)
